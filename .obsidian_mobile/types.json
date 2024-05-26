@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "banner_y": "number",
+    "status": "checkbox",
+    "deadline": "date",
+    "priority": "number"
+  }
+}

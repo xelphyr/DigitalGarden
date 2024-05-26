@@ -1,0 +1,52 @@
+{
+  "scanned": true,
+  "reminders": {
+    "004 Daily/2024-01-16.md": [
+      {
+        "title": "ZCO",
+        "time": "2024-02-11",
+        "rowNumber": 7
+      }
+    ],
+    "004 Daily/2024-01-17.md": [
+      {
+        "title": "Check out BWSI with dad",
+        "time": "2024-02-28 17:10",
+        "rowNumber": 8
+      }
+    ],
+    "004 Daily/2024-01-19.md": [
+      {
+        "title": "Complete GP essay and reflective paper",
+        "time": "2024-01-25",
+        "rowNumber": 9
+      }
+    ],
+    "004 Daily/2024-01-27.md": [
+      {
+        "title": "Call Dad and Mom",
+        "time": "2024-01-27",
+        "rowNumber": 7
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "09:00",
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": true,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "enableReminderPluginReminderFormat": false,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": true,
+    "enableTasksPluginReminderFormat": true,
+    "useCustomEmojiForTasksPlugin": true,
+    "removeTagsForTasksPlugin": true,
+    "enableKanbanPluginReminderFormat": false,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}
