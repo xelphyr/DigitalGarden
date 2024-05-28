@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.name %>
+title: Welcome!
 draft: false
 tags:
 ---
@@ -10,5 +10,5 @@ It's a pretty humble affair, but I'm sure you'll have a grand time looking aroun
 - The beach, where you can join me in the reflection and contemplation of our future and past. 
 (Side-note - Most of these are to-be-made, so you'll have to wait a bit :< )
 I'd say, however (as the gardener), that the best way to experience the garden is just wandering about.
-
+	
 Here are some paths you can walk down

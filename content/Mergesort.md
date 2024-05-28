@@ -1,7 +1,8 @@
 ---
-title: <% tp.file.name %>
+title: Mergesort
 draft: false
 tags:
+  - ZP
 ---
 This is a divide-and-conquer recursive sorting algorithm.
 

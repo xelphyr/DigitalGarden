@@ -1,7 +1,8 @@
 ---
-title: <% tp.file.name %>
+title: Quicksort
 draft: true
 tags:
+  - ZP
 ---
 
 
