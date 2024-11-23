@@ -1,7 +1,7 @@
 ---
 title: Benzene
 firstDate: 5th Jul, 2024
-draft: true
+draft: false
 tags:
   - "#ZP"
   - chemistry

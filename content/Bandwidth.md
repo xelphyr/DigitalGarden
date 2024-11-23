@@ -1,7 +1,7 @@
 ---
 title: Bandwidth
 firstDate: 16th Aug, 2024
-draft: true
+draft: false
 tags:
   - "#ZP"
 aliases:

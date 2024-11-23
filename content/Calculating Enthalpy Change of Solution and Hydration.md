@@ -1,7 +1,7 @@
 ---
 title: Calculating Enthalpy Change of Solution and Hydration
 firstDate: 3rd Jul, 2024
-draft: true
+draft: false
 tags:
   - "#ZP"
   - chemistry

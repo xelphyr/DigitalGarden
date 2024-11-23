@@ -1,7 +1,7 @@
 ---
 title: Bose-Einstein Condensate
 firstDate: 8th Jul, 2024
-draft: true
+draft: false
 tags:
   - "#ZP"
   - physics

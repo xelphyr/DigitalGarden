@@ -1,7 +1,7 @@
 ---
 title: Born-Haber Cycle
 firstDate: 27th Jun, 2024
-draft: true
+draft: false
 tags:
   - "#ZP"
   - chemistry
